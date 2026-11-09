@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hola como estas... 
 Bien, y tu?
  
+=======
+Hola como estas...
+que mas  
+>>>>>>> daniel
